@@ -12,6 +12,7 @@ class Test
 public class Constructor_Interview_Question_2 {
   public static void main(String[] args) {
 	  //creating test class object and passing 40 as an argument
+	@SuppressWarnings("unused")
 	Test obj=new Test(40);
 	//guess the output
 }
