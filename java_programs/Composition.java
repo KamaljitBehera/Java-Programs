@@ -3,7 +3,6 @@ package java_programs;
 //Java program to illustrate
 //the concept of Composition
 
-import java.io.*;
 import java.util.*;
 
 //class book
