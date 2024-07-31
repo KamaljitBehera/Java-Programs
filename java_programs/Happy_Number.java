@@ -8,7 +8,6 @@ public class Happy_Number {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the number");
 		int n=sc.nextInt();
-		int num=n;
         int sum=0,rem=0,count=0;
 
 		while(sum!=1)
@@ -36,6 +35,7 @@ public class Happy_Number {
 			}
 			//n=sum;
 		}
+		sc.close();
 	}
 
 }
