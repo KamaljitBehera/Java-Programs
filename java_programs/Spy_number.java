@@ -41,7 +41,7 @@ public class Spy_number
 		}
 
 		
-
+        sc.close();
 	}
 
 }
