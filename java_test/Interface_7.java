@@ -1,6 +1,7 @@
 package java_test;
 
-//this program is used to demonstrate that how to implement a method contained by two different interface having primitive type as an argument
+//this program is used to demonstrate that how to implement a method contained by two different interface having same method signeture 
+// but different primitive type of return type.
 // Creating interface 1
 interface ClassParent1 {
 	// Creating method
