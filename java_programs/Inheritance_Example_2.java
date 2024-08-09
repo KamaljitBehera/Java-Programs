@@ -1,6 +1,6 @@
 package java_programs;
 
-//This program is used to demonstrate the acess the constructor without creating the current class object
+//This program is used to demonstrate the access the constructor without creating the current class object
 //Creating Parent_no1 class
 class Parent_no1{
 	public Parent_no1()
