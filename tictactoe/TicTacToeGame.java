@@ -31,5 +31,6 @@ public class TicTacToeGame {
             System.out.print(" GAME OVER!!!");
         }
         else board.displayBoard();
+        userInputReader.close();
     }
 }
