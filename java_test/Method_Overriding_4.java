@@ -9,7 +9,7 @@ abstract class P_Method_Overriding_4 {
 
 //Driver class
 public class Method_Overriding_4 extends P_Method_Overriding_4 {
-// override the add method
+// overriding the add method
 	private void add(int num1, int num2) {
 
 		System.out.println("The addition of two number is " + (num1 + num2));
