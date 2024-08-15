@@ -22,7 +22,7 @@ public class Method_Overriding_6 extends P_Method_Overriding_6 {
 		/*
 		 * Explanation:- We can't override the final method because the final method
 		 * must have body parts provided once and in override we try to provide the
-		 * bodyparts again so it raise the compile time error.
+		 * body parts again so it raise the compile time error.
 		 */
 	}
 }
