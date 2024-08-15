@@ -15,7 +15,7 @@ abstract class P_Method_Overriding_5 {
 }
 
 public class Method_Overriding_5 extends P_Method_Overriding_5 {
-	//overriding the  add method
+	//Override  the  add method
 	public void add(int num1, int num2) {
 		System.out.println("The addition of two number is " + (num1 + num2));
 	}
