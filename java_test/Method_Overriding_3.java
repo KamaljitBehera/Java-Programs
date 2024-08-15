@@ -16,7 +16,7 @@ public class Method_Overriding_3 extends P_Method_Overriding_3 {
 		 public static void main(String[] args) {
 //				creating object parent class and call the override method
 			 P_Method_Overriding_3 obj=new Method_Overriding_3();
-		    	 //calling the details method
+//		    	 calling the details method
 		    	 obj.details();
 			}
 }
