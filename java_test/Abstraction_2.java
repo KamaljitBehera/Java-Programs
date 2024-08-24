@@ -1,5 +1,5 @@
 package java_test;
-// This program is used to demonstrate that can we give implementation to abstract class directly
+// This program is used to demonstrate that can we give implementation to abstract method directly
 
 //Creating an abstract class
 abstract class Test1{

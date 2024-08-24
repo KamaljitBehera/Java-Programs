@@ -7,6 +7,7 @@ package java_programs;
 class Person{
 	private String name;
 	private int age;
+//	Creating the public method to control the access the of the data meber through other class
 	public String getName() {
 		return name;
 	}
