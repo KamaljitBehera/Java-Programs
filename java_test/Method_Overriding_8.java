@@ -18,10 +18,12 @@ public class Method_Overriding_8 extends P_Method_Overriding_8{
 	
 	}
 */
-/*	Explanation:-
-	We can change the return type of any method at the time of overriding but both override and overridden method should 
-			be in non-primitive and follow some rules . We can't change the return type if it is primitive type return type
-*/
+/*
+ * Explanation:- We can change the return type of any method at the time of
+ * overriding but both override and overridden method should be in non-primitive
+ * and follow some rules . We can't change the return type if it is primitive
+ * type return type
+ */
 	public static void main(String[] args) {
 		
 	}
