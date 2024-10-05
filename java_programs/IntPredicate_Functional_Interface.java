@@ -1,4 +1,5 @@
 package java_programs;
+
 //Program to understand how to pass the int type date to an predefined functional interface.
 import java.util.function.IntPredicate;
 
@@ -35,9 +36,11 @@ public class IntPredicate_Functional_Interface {
 		intPredicate1 = intPredicate.negate();
 		System.out.println("544331 is greater than 544331 " + intPredicate1.test(544331));
 	}
-	
-/*	Note:-This is the example where we can pass int type of data in the predefined functional interface.
-	And similarly all the predefined functional interface have their on varient and they are specially for 
-	passing the primitive type data type.
-*/
+
+	/*
+	 * Note:-This is the example where we can pass int type of data in the
+	 * predefined functional interface. And similarly all the predefined functional
+	 * interface have their on varient and they are specially for passing the
+	 * primitive type data type.
+	 */
 }
