@@ -1,4 +1,4 @@
-package java_test;
+package com.org.oops.Abstraction;
 
 // This program is used to demonstrate that can we decalre an abstract method as static
 public abstract class Abstraction_4 {

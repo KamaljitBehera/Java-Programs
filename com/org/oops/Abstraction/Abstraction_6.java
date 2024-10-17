@@ -1,4 +1,4 @@
-package java_test;
+package com.org.oops.Abstraction;
 //This program is used to check whether a normal class can have abstract method or not 
 
 //here Abstraction_6 is a normal class

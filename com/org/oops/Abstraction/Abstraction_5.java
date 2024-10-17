@@ -1,4 +1,4 @@
-package java_test;
+package com.org.oops.Abstraction;
 
 //This program is used to demonstrate can we declare an abstract method as final
 public abstract class Abstraction_5 {

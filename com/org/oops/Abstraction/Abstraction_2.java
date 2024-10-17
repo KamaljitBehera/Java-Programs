@@ -1,4 +1,4 @@
-package java_test;
+package com.org.oops.Abstraction;
 // This program is used to demonstrate that can we give implementation to abstract method directly
 
 //Creating an abstract class

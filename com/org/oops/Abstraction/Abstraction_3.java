@@ -1,4 +1,4 @@
-package java_test;
+package com.org.oops.Abstraction;
 
 // This program is demonstrate that can we provide access modifier private to any abstract method or not
 public abstract class Abstraction_3 {

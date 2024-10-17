@@ -1,4 +1,4 @@
-package java_test;
+package com.org.oops.Abstraction;
 //This program demonstrate that the abstract class can have instance variable and if there then how to initialize it.
 //Creating the abstract class
 abstract class P_Abstraction_9 {

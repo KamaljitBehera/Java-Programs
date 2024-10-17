@@ -1,4 +1,4 @@
-package java_test;
+package com.org.oops.Abstraction;
 //A Java program to demonstrates
 //an abstract class with constructors
 

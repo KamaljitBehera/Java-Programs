@@ -1,4 +1,4 @@
-package java_test;
+package com.org.oops.Abstraction;
 // This program is used to demonstrate that are we able to create the object of abstract method or not
 
 // Creating an abstract class

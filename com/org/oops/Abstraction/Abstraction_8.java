@@ -1,4 +1,4 @@
-package java_test;
+package com.org.oops.Abstraction;
 //This program is used to demonstrate that an abstract class can implements an interface or not
 //Creating an interface
 interface GP_Abstraction_8{
